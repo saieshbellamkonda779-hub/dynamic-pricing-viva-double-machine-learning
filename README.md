@@ -72,8 +72,6 @@ Verify data-quality checks against the final dataset.
 Document confirmed validation results.
 
 
-# Dynamic Pricing via Double Machine Learning
-
 Project: Dynamic Pricing
 Role: Member 1 — Data Preparation and Causal Analysis
 Date: 2026-10-22
@@ -119,5 +117,13 @@ Current status:
 Initial data checks, EDA, and documentation completed; causal validation remains in progress.
 Coordinate with the team on the treatment variable, outcome variable, and available control variables for the DML pipeline.
 
+Data Validation Tasks Completed
+
+Inspected dataset schema
+Checked for missing values
+Checked for duplicate rows
+Reviewed price and sales distributions
+Documented data limitations and project risks
+Assessed whether the available variables support causal inference
 
 
